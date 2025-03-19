@@ -1,3 +1,3 @@
-fetch("https://raw.githubusercontent.com/calcaire/哈哈哈/main/message.txt")
+fetch("https://raw.githubusercontent.com/calcaire/qingshi/main/message.txt")
 .then(response => response.text())
 .then(text => { alert(text); });
